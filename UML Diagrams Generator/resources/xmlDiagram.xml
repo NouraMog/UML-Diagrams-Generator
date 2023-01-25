@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<diagramme>
+	<classes>
+		<class nameC="class1">
+			<attribut></attribut>
+			<methodes></methodes>
+		</class>
+	</classes>
+	<interfaces>
+		<interface nameI="">
+			<attribut></attribut>
+			<methodes></methodes>
+		</interface>
+	</interfaces>
+	<annotations>
+		<annotation nameA="">
+			<attribut></attribut>
+			<methodes></methodes>
+		</annotation>
+	</annotations>
+	<enums>
+		<enum nameE="">
+			<attribut></attribut>
+			<methodes></methodes>
+		</enum>
+	</enums>
+	<relations>
+		<relation type="association"/>
+		<relation type="aggregation"/>
+		<relation type="composition"/>
+	</relations>
+</diagramme>
